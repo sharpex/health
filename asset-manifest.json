@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.044d2058.css",
+    "main.js": "./static/js/main.a0347030.js",
+    "static/js/714.b84e2e1b.chunk.js": "./static/js/714.b84e2e1b.chunk.js",
+    "static/js/91.14eb2b72.chunk.js": "./static/js/91.14eb2b72.chunk.js",
+    "static/js/139.acf1fe0f.chunk.js": "./static/js/139.acf1fe0f.chunk.js",
+    "static/js/585.dd6b5825.chunk.js": "./static/js/585.dd6b5825.chunk.js",
+    "static/js/144.934bf1c9.chunk.js": "./static/js/144.934bf1c9.chunk.js",
+    "static/js/703.91eb63ae.chunk.js": "./static/js/703.91eb63ae.chunk.js",
+    "static/js/513.3c1bf05f.chunk.js": "./static/js/513.3c1bf05f.chunk.js",
+    "static/js/835.0868b4a5.chunk.js": "./static/js/835.0868b4a5.chunk.js",
+    "static/media/health-management-tech-system-logo.jpg": "./static/media/health-management-tech-system-logo.58a67d741e54dc057b98.jpg",
+    "static/media/health-management-tech-system.png": "./static/media/health-management-tech-system.f875b2e7b45ec2cdaafe.png",
+    "static/media/health-management-tech-system-services.jpg": "./static/media/health-management-tech-system-services.cb41ebf73e93367089b2.jpg",
+    "static/media/health-management-tech-system-bill.jpg": "./static/media/health-management-tech-system-bill.1219eb44226b7b7cdaa8.jpg",
+    "static/media/health-management-tech-system-inventory.jpg": "./static/media/health-management-tech-system-inventory.f6d917bdbb4e62736f47.jpg",
+    "static/media/health-management-tech-system-insurance.jpg": "./static/media/health-management-tech-system-insurance.a6b897fdb1b9f4c0d315.jpg",
+    "static/media/health-management-tech-system-pharmacy.jpg": "./static/media/health-management-tech-system-pharmacy.76c2d732b087ec9376c5.jpg",
+    "static/media/health-management-tech-system-expenses.jpg": "./static/media/health-management-tech-system-expenses.67678af913d0f0140430.jpg",
+    "static/media/health-management-tech-system-beds.jpg": "./static/media/health-management-tech-system-beds.6ec64341ff800f30dbf5.jpg",
+    "static/media/health-management-tech-system-patient.jpg": "./static/media/health-management-tech-system-patient.20fd0a25318a174b6383.jpg",
+    "static/media/health-management-tech-system-health.jpg": "./static/media/health-management-tech-system-health.70f5b57485da7bd2d4aa.jpg",
+    "static/media/health-management-tech-system-staff.jpg": "./static/media/health-management-tech-system-staff.20dd2c07518d4511f4d6.jpg",
+    "static/media/health-management-tech-system-appointments.jpg": "./static/media/health-management-tech-system-appointments.01cc9bcdf8ef963ecea2.jpg",
+    "static/media/health-management-tech-system-wards.jpg": "./static/media/health-management-tech-system-wards.782f5c48c85e818662c9.jpg",
+    "index.html": "./index.html",
+    "main.044d2058.css.map": "./static/css/main.044d2058.css.map",
+    "main.a0347030.js.map": "./static/js/main.a0347030.js.map",
+    "714.b84e2e1b.chunk.js.map": "./static/js/714.b84e2e1b.chunk.js.map",
+    "91.14eb2b72.chunk.js.map": "./static/js/91.14eb2b72.chunk.js.map",
+    "139.acf1fe0f.chunk.js.map": "./static/js/139.acf1fe0f.chunk.js.map",
+    "585.dd6b5825.chunk.js.map": "./static/js/585.dd6b5825.chunk.js.map",
+    "144.934bf1c9.chunk.js.map": "./static/js/144.934bf1c9.chunk.js.map",
+    "703.91eb63ae.chunk.js.map": "./static/js/703.91eb63ae.chunk.js.map",
+    "513.3c1bf05f.chunk.js.map": "./static/js/513.3c1bf05f.chunk.js.map",
+    "835.0868b4a5.chunk.js.map": "./static/js/835.0868b4a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044d2058.css",
+    "static/js/main.a0347030.js"
+  ]
+}
